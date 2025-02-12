@@ -1,0 +1,55 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    background-image: url('/new-year-offer-resources/images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: #FFFFFF;
+    height: 600px;
+    width: 1140px;
+    margin: 0px auto;
+    border-radius: 10px;
+    background: linear-gradient(to right,#070211);
+    filter: brightness(90%);
+   
+}
+.new_year_title{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 150px;
+    color: #FFFFFF;
+    font-weight: 600;
+}
+.new_year_des{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 70px;
+    font-weight: 900;
+    margin-top: 20px;
+}
+.category{
+    margin: 40px 400px;
+}
+
+.category-child{
+   width: 800px;
+   height: 600px;
+   border-radius: 10px;
+}
+.category-title{
+    text-align: center;
+    font-size: 60px;
+    color: #FF0000;
+    font-weight: bold;
+}
+.category-sub-title{
+    text-align: center;
+    color: #FF0000;
+}
+.category-des{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+}
